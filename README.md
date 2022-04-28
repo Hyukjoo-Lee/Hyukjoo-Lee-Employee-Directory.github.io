@@ -2,4 +2,4 @@
 
 This Web application is to show employee's information cards
 
-Skills: HTML, CSS, JavaScript,AJAX, API 
+Skills: HTML, CSS, JavaScript, AJAX, API 
